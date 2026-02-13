@@ -1,5 +1,6 @@
+
 {
-  "name": "GitGrade AI - GitHub Portfolio Grader",
-  "description": "An AI-powered dashboard that analyzes GitHub profiles to provide comprehensive grades, portfolio scores, and actionable improvement tips using Gemini 3 Pro.",
+  "name": "GitRecruiter AI - GitHub Portfolio Grader",
+  "description": "A professional web-based dashboard that audits GitHub profiles for hireability, providing scores and recruiter-level feedback.",
   "requestFramePermissions": []
 }
